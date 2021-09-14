@@ -26,7 +26,7 @@ function Header(props){
               <TextField className="textfield"
                 {...params}
                 // label="Search input"
-//                 margin="normal"
+                margin="normal"
 //                 variant="outlined"
                 InputProps={{ ...params.InputProps, type: 'search' }}
               />
