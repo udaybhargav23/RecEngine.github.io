@@ -5,6 +5,7 @@ import ImageList from './components/ImageList';
 import GalleryItem from './components/GalleryItem';
 import HomePage from './components/Homepage';
 import { useState } from 'react';
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
   const [res,setRes] = useState(null); 
@@ -45,6 +46,7 @@ function App() {
           </Route>
           <Route path='/laptops/:asin'>
             <GalleryItem />
+            <ScrollToTop />
           </Route>
           <Route path='/recommendationengine'>
             <HomePage searchdata={res} />
