@@ -6,11 +6,11 @@
 }
 .header-link{
   text-decoration: none;
-  color: black;
+  color: white;
   padding: 15px;
 }
 .header-link:hover{
-  background-color: rgb(53, 102, 192);
+  background-color: rgb(6, 48, 126);
   height: 100%;
 }
 .header-linkParent{
@@ -24,8 +24,7 @@
 .container{
   display : grid;
   grid-template-columns: 2fr 1fr 1fr 3fr;
-  /* background-color : #146b8d; */
-  background-color : #91dcf3;
+  background-color : #146b8d;
   margin-bottom: 30px;
   position: fixed;
   top : 0;
