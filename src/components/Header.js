@@ -13,7 +13,7 @@ function Header(props){
       <div className="container">
         <div className="logocontainer">
           <Link to="/homepage">
-            <img src="https://techigai.io/wp-content/uploads/2021/06/logo.png" alt="techigai-logo" className="logo" />
+            <img src="https://627135-2036441-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/08/logo-light.svg" alt="techigai-logo" className="logo" />
           </Link>
         </div>
         <div className="searchbar">
