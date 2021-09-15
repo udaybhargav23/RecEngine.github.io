@@ -51,7 +51,7 @@ function Table(props){
     return (
         <div id="About" style={{height: 500}}>
           <h2>Technical Information</h2>
-          <table>
+          <table className="tb-1">
               {
                   arr.map((item) => {
                     if (check(item[0]) || item[1].length===0){
