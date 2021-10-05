@@ -266,3 +266,59 @@ button{
 .plus2{
   color : gray;
 }
+#quanInput{
+  width: 35px;
+}
+.subsign{
+  margin: 10px;
+  background-color: black;
+  color: white;
+}
+.deliver{
+  pointer-events: none;
+  color: rgb(211, 208, 208);
+}
+.popuptable{
+  padding: 20px;
+}
+.popupbutton{
+  text-decoration: none;
+  display: inline;
+  cursor: pointer;
+  padding: 5px;
+  margin: 10px;
+  border : 1px solid black;
+  width: 40px;
+  color: black;
+  background-color: rgb(233, 227, 227);
+}
+.subheading{
+  text-align: center;
+  color: rgb(38, 94, 199);
+  text-decoration: underline;
+}
+.subgrid{
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.subcontainer{
+  border: 2px solid rgb(21, 140, 219);
+  /* background-color: rgb(27, 201, 245); */
+  background-image: linear-gradient(to bottom right, rgb(238, 102, 208), rgb(89, 169, 243));
+  margin-top: 20px;
+  height: 70%;
+  margin-right: 10px;
+}
+.subval{
+  color: rgb(31, 6, 71);
+}
+.subdelfloat{
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.subdelbutfloat{
+  border-radius: 10px;
+  background-image: linear-gradient(to bottom right, rgb(154, 210, 235), rgb(11, 218, 118));
+  cursor: pointer;
+}
