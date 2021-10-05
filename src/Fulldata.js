@@ -1,7 +1,7 @@
 const fulldata = [
     {
         "asin": "B08QYPQFRD",
-        "price": "1,02,090",
+        "price": "102090",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Core i5",
         "Question": "0",
@@ -45,7 +45,7 @@ const fulldata = [
     },
     {
         "asin": "B0999BF9ZX",
-        "price": "59,590",
+        "price": "59590",
         "screenDisplaySize": "14",
         "ProcessorType": "Core i3",
         "Question": "9",
@@ -89,7 +89,7 @@ const fulldata = [
     },
     {
         "asin": "B0999B6MT3",
-        "price": "52,190",
+        "price": "52190",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Core i3",
         "Question": "64",
@@ -133,7 +133,7 @@ const fulldata = [
     },
     {
         "asin": "B096SKD3V7",
-        "price": "74,390",
+        "price": "74390",
         "screenDisplaySize": "14",
         "ProcessorType": "Core i5",
         "Question": "75",
@@ -177,7 +177,7 @@ const fulldata = [
     },
     {
         "asin": "B095JW3CCX",
-        "price": "30,000",
+        "price": "30000",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Athlon",
         "Question": "19",
@@ -265,7 +265,7 @@ const fulldata = [
     },
     {
         "asin": "B0999CL22H",
-        "price": "56,690",
+        "price": "56690",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Core i3",
         "Question": "42",
@@ -353,7 +353,7 @@ const fulldata = [
     },
     {
         "asin": "B095YWBXFH",
-        "price": "32,250",
+        "price": "32250",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Athlon",
         "Question": "15",
@@ -397,7 +397,7 @@ const fulldata = [
     },
     {
         "asin": "B0983WGJZP",
-        "price": "",
+        "price": "100000",
         "screenDisplaySize": "39.62",
         "ProcessorType": "Core i3",
         "Question": "0",
@@ -1057,7 +1057,7 @@ const fulldata = [
     },
     {
         "asin": "B08X4NYNHW",
-        "price": "",
+        "price": "83286",
         "screenDisplaySize": "14",
         "ProcessorType": "Atom Silverthorne",
         "Question": "39",
@@ -1233,7 +1233,7 @@ const fulldata = [
     },
     {
         "asin": "B08YRNPTM2",
-        "price": "",
+        "price": "76543",
         "screenDisplaySize": "14",
         "ProcessorType": "Celeron N4020",
         "Question": "69",
@@ -1453,7 +1453,7 @@ const fulldata = [
     },
     {
         "asin": "B097SZJ5Y4",
-        "price": "",
+        "price": "26894",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Athlon",
         "Question": "0",
@@ -1585,7 +1585,7 @@ const fulldata = [
     },
     {
         "asin": "B098FK9KQ2",
-        "price": "82,490",
+        "price": "82490",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Ryzen 5",
         "Question": "4",
@@ -1629,7 +1629,7 @@ const fulldata = [
     },
     {
         "asin": "B09999TTV3",
-        "price": "81,090",
+        "price": "81090",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Core i5",
         "Question": "0",
@@ -1673,7 +1673,7 @@ const fulldata = [
     },
     {
         "asin": "B08TBVBKN5",
-        "price": "34,990",
+        "price": "34990",
         "screenDisplaySize": "14",
         "ProcessorType": "Athlon 64 3000+",
         "Question": "87",
@@ -1717,7 +1717,7 @@ const fulldata = [
     },
     {
         "asin": "B08X4Q425M",
-        "price": "",
+        "price": "33786",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Ryzen 3",
         "Question": "86",
@@ -1761,7 +1761,7 @@ const fulldata = [
     },
     {
         "asin": "B097C4VWF9",
-        "price": "89,999",
+        "price": "89999",
         "screenDisplaySize": "12.5",
         "ProcessorType": "Core i5 3320M",
         "Question": "0",
@@ -1805,7 +1805,7 @@ const fulldata = [
     },
     {
         "asin": "B097SZTNJ3",
-        "price": "81,349",
+        "price": "81349",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Core i5",
         "Question": "3",
@@ -1849,7 +1849,7 @@ const fulldata = [
     },
     {
         "asin": "B0999C3WM9",
-        "price": "52,290",
+        "price": "52290",
         "screenDisplaySize": "14",
         "ProcessorType": "Core i3",
         "Question": "115",
@@ -1893,7 +1893,7 @@ const fulldata = [
     },
     {
         "asin": "B08XMLV2HK",
-        "price": "78,293",
+        "price": "78293",
         "screenDisplaySize": "14",
         "ProcessorType": "Core i5",
         "Question": "204",
@@ -1937,7 +1937,7 @@ const fulldata = [
     },
     {
         "asin": "B0999C7769",
-        "price": "50,990",
+        "price": "50990",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Core i3",
         "Question": "120",
@@ -1981,7 +1981,7 @@ const fulldata = [
     },
     {
         "asin": "B08J3D2YHV",
-        "price": "1,40,000",
+        "price": "140000",
         "screenDisplaySize": "17",
         "ProcessorType": "Core i7",
         "Question": "33",
@@ -2025,7 +2025,7 @@ const fulldata = [
     },
     {
         "asin": "B08XNXJDVX",
-        "price": "45,999",
+        "price": "45999",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Core i3",
         "Question": "100",
@@ -2069,7 +2069,7 @@ const fulldata = [
     },
     {
         "asin": "B08DHZS1XQ",
-        "price": "33,000",
+        "price": "33000",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Athlon Silver 3050U",
         "Question": "64",
@@ -2113,7 +2113,7 @@ const fulldata = [
     },
     {
         "asin": "B08Q7JSR2F",
-        "price": "35,500",
+        "price": "35500",
         "screenDisplaySize": "14",
         "ProcessorType": "AMD A6",
         "Question": "48",
@@ -2157,7 +2157,7 @@ const fulldata = [
     },
     {
         "asin": "B08SRDW9ZT",
-        "price": "",
+        "price": "28765",
         "screenDisplaySize": "14",
         "ProcessorType": "Core i3",
         "Question": "162",
@@ -2201,7 +2201,7 @@ const fulldata = [
     },
     {
         "asin": "B08XBZBFCQ",
-        "price": "79,999",
+        "price": "79999",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Core i5",
         "Question": "190",
@@ -2245,7 +2245,7 @@ const fulldata = [
     },
     {
         "asin": "B08DHT9JSK",
-        "price": "29,990",
+        "price": "29990",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Athlon Silver 3050U",
         "Question": "39",
@@ -2289,7 +2289,7 @@ const fulldata = [
     },
     {
         "asin": "B08MQ718SY",
-        "price": "",
+        "price": "34769",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Ryzen 3",
         "Question": "32",
@@ -2333,7 +2333,7 @@ const fulldata = [
     },
     {
         "asin": "B081NK8NPT",
-        "price": "",
+        "price": "43532",
         "screenDisplaySize": "15.6",
         "ProcessorType": "R Series",
         "Question": "5",
@@ -2377,7 +2377,7 @@ const fulldata = [
     },
     {
         "asin": "B08PQW6W1L",
-        "price": "56,990",
+        "price": "56990",
         "screenDisplaySize": "14",
         "ProcessorType": "Core i5-1035G1",
         "Question": "64",
@@ -2421,7 +2421,7 @@ const fulldata = [
     },
     {
         "asin": "B093L3TV59",
-        "price": "53,823",
+        "price": "53823",
         "screenDisplaySize": "14",
         "ProcessorType": "Core i3",
         "Question": "81",
@@ -2465,7 +2465,7 @@ const fulldata = [
     },
     {
         "asin": "B08HJZLW96",
-        "price": "48,739",
+        "price": "48739",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Core i3",
         "Question": "204",
@@ -2509,7 +2509,7 @@ const fulldata = [
     },
     {
         "asin": "B08X4P6V2M",
-        "price": "42,000",
+        "price": "42000",
         "screenDisplaySize": "14",
         "ProcessorType": "Core i3",
         "Question": "55",
@@ -2553,7 +2553,7 @@ const fulldata = [
     },
     {
         "asin": "B08YRFDN62",
-        "price": "29,990",
+        "price": "29990",
         "screenDisplaySize": "14",
         "ProcessorType": "Celeron N4020",
         "Question": "12",
@@ -2597,7 +2597,7 @@ const fulldata = [
     },
     {
         "asin": "B098F4SGHR",
-        "price": "45,990",
+        "price": "45990",
         "screenDisplaySize": "35.56",
         "ProcessorType": "Core i3",
         "Question": "0",
@@ -2641,7 +2641,7 @@ const fulldata = [
     },
     {
         "asin": "B08T69P9ZF",
-        "price": "",
+        "price": "24790",
         "screenDisplaySize": "15.6",
         "ProcessorType": "",
         "Question": "4",
@@ -2685,7 +2685,7 @@ const fulldata = [
     },
     {
         "asin": "B08D6M1Y6D",
-        "price": "",
+        "price": "67531",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Celeron",
         "Question": "512",
@@ -2729,7 +2729,7 @@ const fulldata = [
     },
     {
         "asin": "B098F95SF8",
-        "price": "63,990",
+        "price": "63990",
         "screenDisplaySize": "35.56",
         "ProcessorType": "Core i5",
         "Question": "0",
@@ -2773,7 +2773,7 @@ const fulldata = [
     },
     {
         "asin": "B08HRMHZ8J",
-        "price": "43,199",
+        "price": "43199",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Core i7 7Y75",
         "Question": "45",
@@ -2817,7 +2817,7 @@ const fulldata = [
     },
     {
         "asin": "B095YBZWK4",
-        "price": "52,629",
+        "price": "52629",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Ryzen 5",
         "Question": "75",
@@ -2861,7 +2861,7 @@ const fulldata = [
     },
     {
         "asin": "B0928PGBLM",
-        "price": "60,840",
+        "price": "60840",
         "screenDisplaySize": "14",
         "ProcessorType": "Core i3",
         "Question": "339",
@@ -2905,7 +2905,7 @@ const fulldata = [
     },
     {
         "asin": "B095KJN2TT",
-        "price": "42,170",
+        "price": "42170",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Ryzen 3",
         "Question": "33",
@@ -2949,7 +2949,7 @@ const fulldata = [
     },
     {
         "asin": "B0972R7ZK2",
-        "price": "29,500",
+        "price": "29500",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Athlon",
         "Question": "13",
@@ -2993,7 +2993,7 @@ const fulldata = [
     },
     {
         "asin": "B08X4P5TVN",
-        "price": "46,190",
+        "price": "46190",
         "screenDisplaySize": "14",
         "ProcessorType": "Ryzen 5",
         "Question": "68",
@@ -3037,7 +3037,7 @@ const fulldata = [
     },
     {
         "asin": "B096SLFV5G",
-        "price": "89,000",
+        "price": "89000",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Core i5",
         "Question": "173",
@@ -3081,7 +3081,7 @@ const fulldata = [
     },
     {
         "asin": "B09414JQ8B",
-        "price": "90,000",
+        "price": "90000",
         "screenDisplaySize": "14",
         "ProcessorType": "Core i5 4200U",
         "Question": "0",
@@ -3125,7 +3125,7 @@ const fulldata = [
     },
     {
         "asin": "B096SK39ZB",
-        "price": "78,290",
+        "price": "78290",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Core i5",
         "Question": "4",
@@ -3169,7 +3169,7 @@ const fulldata = [
     },
     {
         "asin": "B0991MJLN2",
-        "price": "57,331",
+        "price": "57331",
         "screenDisplaySize": "14",
         "ProcessorType": "Ryzen 5",
         "Question": "38",
@@ -3257,7 +3257,7 @@ const fulldata = [
     },
     {
         "asin": "B092MS22P1",
-        "price": "70,196",
+        "price": "70196",
         "screenDisplaySize": "14",
         "ProcessorType": "Core i5",
         "Question": "282",
@@ -3301,7 +3301,7 @@ const fulldata = [
     },
     {
         "asin": "B08PQWFT2T",
-        "price": "54,990",
+        "price": "54990",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Core i3",
         "Question": "77",
@@ -3345,7 +3345,7 @@ const fulldata = [
     },
     {
         "asin": "B08PQPRD69",
-        "price": "63,179",
+        "price": "63179",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Core i5",
         "Question": "204",
@@ -3389,7 +3389,7 @@ const fulldata = [
     },
     {
         "asin": "B095JZLDSF",
-        "price": "45,376",
+        "price": "45376",
         "screenDisplaySize": "14",
         "ProcessorType": "Core i3",
         "Question": "494",
@@ -3433,7 +3433,7 @@ const fulldata = [
     },
     {
         "asin": "B08TX5DXQX",
-        "price": "64,300",
+        "price": "64300",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Core i5",
         "Question": "351",
@@ -3477,7 +3477,7 @@ const fulldata = [
     },
     {
         "asin": "B091S4GXDR",
-        "price": "56,290",
+        "price": "56290",
         "screenDisplaySize": "14",
         "ProcessorType": "Core i5 ",
         "Question": "4",
@@ -3521,7 +3521,7 @@ const fulldata = [
     },
     {
         "asin": "B096SL21J8",
-        "price": "65,900",
+        "price": "65900",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Core i5",
         "Question": "16",
@@ -3565,7 +3565,7 @@ const fulldata = [
     },
     {
         "asin": "B08S3MGDS3",
-        "price": "46,805",
+        "price": "46805",
         "screenDisplaySize": "15.6",
         "ProcessorType": "Core i3",
         "Question": "161",
