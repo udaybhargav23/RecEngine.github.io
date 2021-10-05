@@ -6,6 +6,7 @@ import GalleryItem from './components/GalleryItem';
 import HomePage from './components/Homepage';
 import { useState } from 'react';
 import ScrollToTop from './components/ScrollToTop';
+import ViewSubscriptions from './components/ViewSubscriptions';
 
 function App() {
   const [res,setRes] = useState(null); 
@@ -13,7 +14,6 @@ function App() {
     //console.log(data);
     setRes(data);
   }
-  console.log(res);
   return (
     <>
       <Header setSearch={handleSearch} />
@@ -50,6 +50,27 @@ function App() {
           </Route>
           <Route path='/recommendationengine'>
             <HomePage searchdata={res} />
+          </Route>
+          <Route path='/soaps'>
+            <div className="dividemaincontainer">
+              {/* <div className="sortandfilterbuttons">
+                <button>Sort</button>
+                <button>Filter</button>
+              </div> */}
+              <ImageList elec='soaps' brand='null' />
+            </div>
+          </Route>
+          <Route path='/chocolates'>
+            <div className="dividemaincontainer">
+              {/* <div className="sortandfilterbuttons">
+                <button>Sort</button>
+                <button>Filter</button>
+              </div> */}
+              <ImageList elec='chocolates' brand='null' />
+            </div>
+          </Route>
+          <Route path='/ViewSubscriptions'>
+            <ViewSubscriptions />
           </Route>
           <Route>
             <h1>404! Error Page</h1>
