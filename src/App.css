@@ -100,7 +100,7 @@ button{
   */
   color: black;
   font-size: large;
-  overflow: hidden;
+  /* overflow: hidden; */
   width: 55vw;
   white-space: wrap;
   text-overflow: ellipsis;
@@ -266,9 +266,9 @@ button{
 .plus2{
   color : gray;
 }
-#quanInput{
+/* #quanInput{
   width: 35px;
-}
+} */
 .subsign{
   margin: 10px;
   background-color: black;
@@ -321,4 +321,51 @@ button{
   border-radius: 10px;
   background-image: linear-gradient(to bottom right, rgb(154, 210, 235), rgb(11, 218, 118));
   cursor: pointer;
+}
+#deliverheading{
+  font-size: 25px;
+  color: rgb(10, 10, 124);
+  text-decoration: underline;
+}
+#inputboxsubs{
+  outline: none;
+  width: 50%;
+  border: 2px solid rgb(6, 90, 168);
+  padding: 10px;
+  margin-top: 2px;
+}
+.optiondecor{
+  font-size: larger;
+}
+.subscont{
+  border: 2px solid rgb(24, 59, 214);
+  height: 45%;
+  padding: 10px;
+}
+input[type='radio']:after {
+  width: 15px;
+  height: 15px;
+  border-radius: 15px;
+  top: -2px;
+  left: -1px;
+  position: relative;
+  background-color: #d1d3d1;
+  content: '';
+  display: inline-block;
+  visibility: visible;
+  border: 2px solid white;
+}
+
+input[type='radio']:checked:after {
+  width: 15px;
+  height: 15px;
+  border-radius: 15px;
+  top: -2px;
+  left: -1px;
+  position: relative;
+  background-color: #0f5db6;
+  content: '';
+  display: inline-block;
+  visibility: visible;
+  border: 2px solid white;
 }
