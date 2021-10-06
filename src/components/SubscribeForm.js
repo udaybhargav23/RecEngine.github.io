@@ -32,8 +32,10 @@ function SubscribeForm(props){
                 <label>Frequency: </label><br />
                 <input list="subs" name="subs" id="inputboxsubs" className={Class} value={sub} onChange={e => setSub(e.target.value)} /> <br />
                 <datalist id="subs" className="optiondecor" >
-                    <option value="Every week (10% off)" className="optiondecor" />
+                    <option value="Every day (10% off)" />
+                    <option value="Every week (10% off)" />
                     <option value="Every month (10% off)" />
+                    <option value="Quarterly (10% off)" />
                     <option value="Every half year (10% off)" />
                     <option value="Every year (10% off)" />
                 </datalist>
