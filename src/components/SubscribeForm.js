@@ -15,54 +15,44 @@ function SubscribeForm(props){
     };
  
     return(
-        <div>
+        <>
+        <h3>Payment and Subscription</h3>
+        <div className="subscont">
             <form>
                 <input type="radio" name="subscribe" onClick={function(){
                     updateClass("deliver");
-                }} />
+                }} /> &nbsp;
                 <label>One-time purchase</label><br />
                 <input type="radio" name="subscribe" onClick={function(){
                     updateClass("delivery");
-                }} />
+                }} /> &nbsp;
                 <label>Subscribe</label><br />
                 <br />
-                <div className={Class}>Deliver:</div>
-                <input list="subs" name="subs" className={Class} value={sub} onChange={e => setSub(e.target.value)} />
-                <datalist id="subs" className={Class} >
-                    <option value="Every week (10% off)" defaultValue/>
+                <div id="deliverheading" className={Class}>Delivery:</div><br />
+                <label>Frequency: </label><br />
+                <input list="subs" name="subs" id="inputboxsubs" className={Class} value={sub} onChange={e => setSub(e.target.value)} /> <br />
+                <datalist id="subs" className="optiondecor" >
+                    <option value="Every week (10% off)" className="optiondecor" />
                     <option value="Every month (10% off)" />
                     <option value="Every half year (10% off)" />
                     <option value="Every year (10% off)" />
                 </datalist>
                 <br />
-                <input list="quan" name="quan" id="quanInput" className={Class} value={quan} onChange={e => setQuan(e.target.value)} />
-                <datalist id="quan" name="quan" >
-                    <option value="1"/>
-                    <option value="1"/>
-                    <option value="2" />
-                    <option value="3" />
-                    <option value="4" />
-                    <option value="5" />
-                    <option value="6" />
-                    <option value="7" />
-                    <option value="8" />
-                    <option value="9" />
-                    <option value="10" />
-                    <option value="11" />
-                    <option value="12" />
-                </datalist><br />
+                <label>Quantity: </label><br />
+                <input type="text" id="inputboxsubs" className={Class} value={quan} onChange={e => setQuan(e.target.value)} />
+                <br />
                 <br />
                 <input type="radio" name="payment" onClick={function(){
                     setPayment("1");
-                }} />
+                }} /> &nbsp;
                 <label>One Time Payment</label><br />
                 <input type="radio" name="payment" onClick={function(){
                     setPayment("2");
-                }} />
+                }} /> &nbsp;
                 <label>Auto Debit Payment</label><br />
                 <input type="radio" name="payment" onClick={function(){
                     setPayment("3");
-                }} />
+                }} /> &nbsp;
                 <label>Payment Through Invoices</label><br />
                 <br/>
                 <div className="popupbutton subsign" onClick={function(){
@@ -87,6 +77,7 @@ function SubscribeForm(props){
                 <Link to="/ViewSubscriptions" target="_blank" className="popupbutton">View</Link>
             </form>
         </div>
+        </>
     )
 }
 
