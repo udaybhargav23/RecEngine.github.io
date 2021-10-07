@@ -278,6 +278,9 @@ button{
   pointer-events: none;
   color: rgb(211, 208, 208);
 }
+.delivery{
+  cursor : pointer;
+}
 .popuptable{
   padding: 20px;
 }
